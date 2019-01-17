@@ -1,7 +1,7 @@
 # OdooInstall
  Odoo install script
 
-# Inventory_odoo [Odoo](https://www.odoo.com "Odoo's Official website")
+# [Odoo](https://www.odoo.com "Odoo's Official website")
 
 
 If it is your first time to use odoo, below guide you how to install ODOO in your linux machine
